@@ -203,7 +203,7 @@ body {
 #lateral {
     width: 300px;
     min-height: 1200px;
-    border: 1px solid green;
+   /* border: 1px solid green;*/
     font-family: "TrebuchetMS";
     float: right;
     margin: 10px;
